@@ -1,0 +1,11 @@
+C:\Programação\Comparador avançado\comparador-avancado\comparador_avancado\bin\Debug\netcoreapp3.0\comparador_avancado.exe
+C:\Programação\Comparador avançado\comparador-avancado\comparador_avancado\bin\Debug\netcoreapp3.0\comparador_avancado.deps.json
+C:\Programação\Comparador avançado\comparador-avancado\comparador_avancado\bin\Debug\netcoreapp3.0\comparador_avancado.runtimeconfig.json
+C:\Programação\Comparador avançado\comparador-avancado\comparador_avancado\bin\Debug\netcoreapp3.0\comparador_avancado.runtimeconfig.dev.json
+C:\Programação\Comparador avançado\comparador-avancado\comparador_avancado\bin\Debug\netcoreapp3.0\comparador_avancado.dll
+C:\Programação\Comparador avançado\comparador-avancado\comparador_avancado\bin\Debug\netcoreapp3.0\comparador_avancado.pdb
+C:\Programação\Comparador avançado\comparador-avancado\comparador_avancado\obj\Debug\netcoreapp3.0\comparador_avancado.csprojAssemblyReference.cache
+C:\Programação\Comparador avançado\comparador-avancado\comparador_avancado\obj\Debug\netcoreapp3.0\comparador_avancado.AssemblyInfoInputs.cache
+C:\Programação\Comparador avançado\comparador-avancado\comparador_avancado\obj\Debug\netcoreapp3.0\comparador_avancado.AssemblyInfo.cs
+C:\Programação\Comparador avançado\comparador-avancado\comparador_avancado\obj\Debug\netcoreapp3.0\comparador_avancado.dll
+C:\Programação\Comparador avançado\comparador-avancado\comparador_avancado\obj\Debug\netcoreapp3.0\comparador_avancado.pdb
